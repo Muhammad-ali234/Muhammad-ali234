@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3, Solidity, PostgreSQL Advanced Queries, and AR Foundation**
 
-- 👨‍💻 All of my projects are available at [https://alimuhammad.dev](https://alimuhammad.dev)
+- 👨‍💻 All of my projects are available at [https://muhammad-ali234.github.io/my-portfolio/](https://muhammad-ali234.github.io/my-portfolio/)
 
 - 💬 Ask me about **Flutter, Node.js, Firebase, PostgreSQL, MSSQL, MySQL, REST APIs**
 
