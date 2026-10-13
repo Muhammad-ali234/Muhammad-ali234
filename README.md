@@ -1,22 +1,43 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">I’m working as Flutter Developer And Node.js Backend Developer</h3>
+# Hi 👋, I'm Muhammad Ali
 
-- 🔭 I’m currently working on [AI-Powered E-Commerce Chatbot](https://github.com/Muhammad-ali234/AI-Powered-E-Commerce-Chatbot)
-
-- 🌱 I’m currently learning **Web3, Solidity, PostgreSQL Advanced Queries, and AR Foundation**
-
-- 👨‍💻 All of my projects are available at [https://muhammad-ali234.github.io/my-portfolio/](https://muhammad-ali234.github.io/my-portfolio/)
-
-- 💬 Ask me about **Flutter, Node.js, Firebase, PostgreSQL, MSSQL, MySQL, REST APIs**
-
-- 📫 How to reach me **muhammadali.chd12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-ali-a5367b204?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b7ic5naabsqsubx7h5ojqhq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ali-a5367b204?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b7ic5naabsqsubx7h5ojqhq%3d%3d" height="30" width="40" /></a>
+  <strong>Full-Stack Web & Mobile Application Engineer | AI & Computer Vision Integrator</strong><br>
+  Specializing in React.js, Flutter, Node.js, and computer vision systems with high performance and clean architecture.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammad-ali234.github.io/Personnel-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-a5367b204)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadali.chd12@gmail.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ali234&show_icons=true&locale=en&layout=compact" alt="muhammad-ali234" /></p>
+---
+
+### 🚀 Highlights & Active Work
+- 🌐 **Live Portfolio:** [muhammad-ali234.github.io/Personnel-Portfolio](https://muhammad-ali234.github.io/Personnel-Portfolio/)
+- 🔭 **Current Focus:** Industrial ERP systems, AI automation, and cross-platform apps (Flutter & React).
+- 💼 **Recent Deliveries:**
+  - **Accounting & POS System:** Delivered to 10+ retail & wholesale clients.
+  - **PipeVision AI (A-One PVC):** Factory ERP + YOLOv8 automated conveyor counting.
+  - **VADS (Vehicle At Doorstep):** 4-role automotive inspection & test-drive platform.
+- 🌱 **Learning & Expanding:** Advanced AI Agents, FastAPI, and Cloud Architecture.
+- 💬 **Ask me about:** Flutter, React.js, Node.js, Express, MySQL, PostgreSQL, YOLOv8, REST APIs, WebSockets.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+`Dart` `Flutter` `TypeScript` `JavaScript` `React.js` `Python` `Node.js` `Express` `Tailwind CSS`
+
+**Databases & Real-Time:**  
+`MySQL` `PostgreSQL` `Firebase` `MongoDB` `Socket.io` `REST APIs`
+
+**AI & Tools:**  
+`YOLOv8` `OpenCV` `Git` `GitHub` `Postman` `Figma` `Linux`
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-ali234&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ali234&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
+</p>
